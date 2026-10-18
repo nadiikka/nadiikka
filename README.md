@@ -11,7 +11,7 @@ I build software that people can use, play, and remember. My work moves between 
 - **[AeroRozum](https://blogit.metropolia.fi/tekoalya-tutkimassa/en/2026/05/19/how-metropolia-software-students-worked-with-hardware-and-ai-and-made-it-to-the-top-5-of-finlands-largest-defense-hackathon/)** - Autonomous drone system combining edge AI, sensor fusion, and mission-level search. Our team reached the Top 5 at the Junction × Aalto Defence Hackathon.
 - **Kutojan Elämää** - Shipped a Unity game for a museum in Kauhava, making the lives of traditional weavers tangible through interactive play. [Find my games on Itch.io](https://nadiiykka.itch.io/).
 - **Connect3** — AI-powered platform for helping older adults and younger family members build meaningful social routines; built at Junction 2025.
-- **[Aurum] - Voice-enabled service discovery platform built at the STUHI Hackathon. I worked on backend search, bookings, and reviews.
+- **Aurum** - Voice-enabled service discovery platform built at the STUHI Hackathon. I worked on backend search, bookings, and reviews.
 
 ## What I work with
 
