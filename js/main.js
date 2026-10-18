@@ -222,9 +222,14 @@ function mergeProjects(repos) {
     if (repo) usedRepos.add(repo.name);
 
     const links = { ...(highlight.links || {}) };
+    if (highlight.hideLive) {
+      delete links.live;
+    }
     if (repo) {
       links.github = repo.html_url;
-      if (repo.homepage && !links.live) links.live = repo.homepage;
+      if (!highlight.hideLive && repo.homepage && !links.live) {
+        links.live = repo.homepage;
+      }
     }
 
     merged.push({

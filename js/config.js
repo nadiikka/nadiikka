@@ -80,7 +80,7 @@ export const PROJECT_HIGHLIGHTS = [
     tech: ["AI", "TypeScript", "Product Design", "Social Impact"],
     links: {
       linkedin:
-        "https://www.linkedin.com/in/nadiia-haidash",
+        "https://www.linkedin.com/feed/update/urn:li:activity:7396536463565389824/",
     },
     badge: "Junction 2025 · SAS winner",
     featured: true,
@@ -92,6 +92,7 @@ export const PROJECT_HIGHLIGHTS = [
       "An AI-assisted service-finding platform developed at the STUHI Hackathon. Designed for fast discovery with voice search, then implemented the backend logic for search, bookings, and reviews.",
     tech: ["JavaScript", "React", "ElevenLabs", "Backend"],
     githubRepo: "Aurum",
+    hideLive: true,
     links: {
       linkedin:
         "https://www.linkedin.com/posts/nadiia-haidash_stuhi-hackathon-activity-7422563131132116992-HIkA",
