@@ -93,7 +93,6 @@ export const PROJECT_HIGHLIGHTS = [
     tech: ["JavaScript", "React", "ElevenLabs", "Backend"],
     githubRepo: "Aurum",
     links: {
-      live: "https://cobalt-rose.vercel.app",
       linkedin:
         "https://www.linkedin.com/posts/nadiia-haidash_stuhi-hackathon-activity-7422563131132116992-HIkA",
     },
