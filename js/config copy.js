@@ -66,9 +66,6 @@ export const PROJECT_HIGHLIGHTS = [
     description:
       "A shipped educational Unity game made with a teammate for a real museum in Kauhava. Built in three weeks to make the lives of traditional weavers tangible through interactive play.",
     tech: ["Unity", "C#", "Game Design", "Museum Installation"],
-    links: {
-      itch: "https://nadiiykka.itch.io/",
-    },
     badge: "Shipped · Museum game",
     featured: true,
   },
